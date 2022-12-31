@@ -1,0 +1,3 @@
+C:/Users/19023/csci3120/assn4/rkhalid/miner/cmake-build-debug/CMakeFiles/miner.dir
+C:/Users/19023/csci3120/assn4/rkhalid/miner/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/19023/csci3120/assn4/rkhalid/miner/cmake-build-debug/CMakeFiles/rebuild_cache.dir

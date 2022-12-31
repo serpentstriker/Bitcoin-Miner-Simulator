@@ -1,0 +1,223 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeRunConfigurationManager">
+    <generated>
+      <config projectName="miner" targetName="miner" />
+    </generated>
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" ENABLED="true" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="4023fa11-ebaa-4705-b9f9-27501d1c9191" name="Changes" comment="FIXED MINE">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.ninja_deps" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/.ninja_deps" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.ninja_log" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/.ninja_log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/miner.dir/main.c.obj" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/miner.dir/main.c.obj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/Testing/Temporary/LastTest.log" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/Testing/Temporary/LastTest.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/miner.exe" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/miner.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.c" beforeDir="false" afterPath="$PROJECT_DIR$/main.c" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectApplicationVersion">
+    <option name="ide" value="CLion" />
+    <option name="majorVersion" value="2022" />
+    <option name="minorVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2C8fqfI2FHajvqj88xuwiY37nfF" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.cidr.known.project.marker&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;true&quot;,
+    &quot;cf.first.check.clang-format&quot;: &quot;false&quot;,
+    &quot;cidr.known.project.marker&quot;: &quot;true&quot;,
+    &quot;cmake.loaded.for.project&quot;: &quot;true&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;reference.settingsdialog.IDE.editor.colors.Console Colors&quot;
+  }
+}</component>
+  <component name="RunManager">
+    <configuration name="miner" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="miner" TARGET_NAME="miner" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="miner" RUN_TARGET_NAME="miner">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4023fa11-ebaa-4705-b9f9-27501d1c9191" name="Changes" comment="" />
+      <created>1658189324370</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1658189324370</updated>
+      <workItem from="1658189326295" duration="1743000" />
+      <workItem from="1658265085580" duration="1109000" />
+      <workItem from="1659119501389" duration="24894000" />
+      <workItem from="1659229467046" duration="13916000" />
+      <workItem from="1659311999250" duration="966000" />
+      <workItem from="1659321043515" duration="1543000" />
+      <workItem from="1665950361599" duration="603000" />
+      <workItem from="1667521162337" duration="53000" />
+      <workItem from="1667524704883" duration="526000" />
+      <workItem from="1668036522206" duration="819000" />
+    </task>
+    <task id="LOCAL-00001" summary="TEST PUSH">
+      <created>1658189431079</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1658189431079</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Updated Execute Permissions">
+      <created>1658189844473</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1658189844473</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Updated Execute Permissions">
+      <created>1658265133489</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1658265133489</updated>
+    </task>
+    <task id="LOCAL-00004" summary="TESTING">
+      <created>1658265151384</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1658265151384</updated>
+    </task>
+    <task id="LOCAL-00005" summary="TESTING">
+      <created>1658265299374</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1658265299374</updated>
+    </task>
+    <task id="LOCAL-00006" summary="first test">
+      <created>1659219051807</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1659219051807</updated>
+    </task>
+    <task id="LOCAL-00007" summary="FIXED END">
+      <created>1659220133516</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1659220133516</updated>
+    </task>
+    <task id="LOCAL-00008" summary="FIXED END 2">
+      <created>1659220203645</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1659220203645</updated>
+    </task>
+    <task id="LOCAL-00009" summary="FIXED TRX">
+      <created>1659222355008</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1659222355008</updated>
+    </task>
+    <task id="LOCAL-00010" summary="FIXED TRX 2">
+      <created>1659222447816</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1659222447816</updated>
+    </task>
+    <task id="LOCAL-00011" summary="FIXED BLK">
+      <created>1659222948661</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1659222948661</updated>
+    </task>
+    <task id="LOCAL-00012" summary="FIXED BLK 2">
+      <created>1659223984874</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1659223984874</updated>
+    </task>
+    <task id="LOCAL-00013" summary="FIXED BLK 3">
+      <created>1659224217754</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1659224217754</updated>
+    </task>
+    <task id="LOCAL-00014" summary="FIXED BLK 4">
+      <created>1659225103096</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1659225103096</updated>
+    </task>
+    <task id="LOCAL-00015" summary="FIXED MINE">
+      <created>1659225309955</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1659225309955</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="TEST PUSH" />
+    <MESSAGE value="Updated Execute Permissions" />
+    <MESSAGE value="TESTING" />
+    <MESSAGE value="first test" />
+    <MESSAGE value="FIXED END" />
+    <MESSAGE value="FIXED END 2" />
+    <MESSAGE value="FIXED TRX" />
+    <MESSAGE value="FIXED TRX 2" />
+    <MESSAGE value="FIXED BLK" />
+    <MESSAGE value="FIXED BLK 2" />
+    <MESSAGE value="FIXED BLK 3" />
+    <MESSAGE value="FIXED BLK 4" />
+    <MESSAGE value="FIXED MINE" />
+    <option name="LAST_COMMIT_MESSAGE" value="FIXED MINE" />
+  </component>
+</project>
